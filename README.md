@@ -1,6 +1,5 @@
 ### Hi there
-Salut 
-3aslama
+I am a student currently pursuing a degree in IT engineering. I am interested in Web Development
 👋
 
 <!--
