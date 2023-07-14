@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋 , I'm CHADI BOUZAINE</h1>
+<img src="https://image.pngaaa.com/755/4265755-middle.png" alt="goku" width="40" height="40"/> 
 <h3 align="center">I am a student currently pursuing a degree in IT engineering. I am interested in Web Development</h3>
 
 - 🌱 I’m currently learning **React native , Flutter**
