@@ -2,7 +2,7 @@
 
 <h3 align="center">I am a student currently pursuing a degree in IT engineering. I am interested in Web Development</h3>
 
-- 🌱 I’m currently learning **React native , Flutter**
+
 
 - 📫 How to reach me **chadi.bouzaine@gmail.com**
 
